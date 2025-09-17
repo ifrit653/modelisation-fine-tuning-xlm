@@ -1,4 +1,5 @@
 absa_model_xlm/
 absa-xlmroberta
 venv/
-
+absa-checkpoints/
+final-absa-model/
