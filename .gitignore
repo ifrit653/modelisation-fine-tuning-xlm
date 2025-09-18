@@ -1,4 +1,7 @@
 absa_model_xlm/
 absa-xlmroberta
 venv/
-
+final-absa-model/
+consolidated-aspect-model/
+absa-checkpoints/
+aspect-classifier-multi_class/
