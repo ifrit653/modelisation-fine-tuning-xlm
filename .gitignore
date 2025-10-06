@@ -5,3 +5,5 @@ final-absa-model/
 consolidated-aspect-model/
 absa-checkpoints/
 aspect-classifier-multi_class/
+aspect-model/
+practical-aspect-model/
